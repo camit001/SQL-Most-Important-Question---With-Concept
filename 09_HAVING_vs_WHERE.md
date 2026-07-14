@@ -273,7 +273,7 @@ This is one of the most common SQL interview questions.
 
 ## Next Chapter
 
-➡ **10_Self_Joins.md (Questions 67–75)**
+➡ **[Self JOINs](10_Self_Joins.md) (Questions 67–75)**
 
 Topics Covered
 
