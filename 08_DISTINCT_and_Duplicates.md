@@ -314,7 +314,7 @@ This is the preferred approach in SQL Server interviews and production environme
 
 ## Next Chapter
 
-➡ **09_HAVING_vs_WHERE.md (Questions 62–66)**
+➡ **[HAVING vs WHERE](09_HAVING_vs_WHERE.md) (Questions 62–66)**
 
 Topics Covered
 
