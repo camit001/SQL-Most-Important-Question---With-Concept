@@ -224,7 +224,7 @@ It helps others discover the repository and motivates future updates.
 
 Azure Data Engineer | Databricks | PySpark | SQL Server | Azure Data Factory
 
-GitHub: [CLICK]https://github.com/camit001
+GitHub: ["CLICK"](https://github.com/camit001)
 
 
 
