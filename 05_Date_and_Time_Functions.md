@@ -282,7 +282,7 @@ Prefer range-based filtering.
 
 ## Next Chapter
 
-➡ **06_CASE_Statements.md (Questions 44–50)**
+➡ **[CASE Statements](06_CASE_Statements.md) (Questions 44–50)**
 
 Topics Covered
 
