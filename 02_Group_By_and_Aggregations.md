@@ -322,7 +322,7 @@ YEAR() and MONTH() extract date parts in SQL Server.
 
 ## Next Chapter
 
-➡ **03_Window_Functions.md (Questions 19–28)**
+➡ **[String Functions](07_String_Functions.md) (Questions 19–28)**
 
 Topics Covered:
 
