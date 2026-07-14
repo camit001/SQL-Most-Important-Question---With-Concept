@@ -470,7 +470,7 @@ No skipped rank.
 
 ## Next Chapter
 
-➡ **04_Subqueries_and_CTEs.md (Questions 29–36)**
+➡ **[Subqueries & CTEs](04_Subqueries_and_CTEs.md) (Questions 29–36)**
 
 Topics Covered
 
