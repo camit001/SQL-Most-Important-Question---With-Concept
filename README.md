@@ -3,10 +3,7 @@
 <p align="center">
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-SSMS-red?style=for-the-badge\&logo=microsoftsqlserver)
-![GitHub stars](https://img.shields.io/github/stars/your-username/SQL-Interview-Questions-SSMS?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/your-username/SQL-Interview-Questions-SSMS?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/your-username/SQL-Interview-Questions-SSMS?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-success?style=for-the-badge)
 
 </p>
