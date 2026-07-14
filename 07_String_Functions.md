@@ -349,7 +349,7 @@ SQL Server
 
 ## Next Chapter
 
-➡ **08_DISTINCT_and_Duplicates.md (Questions 57–61)**
+➡ **[Window Functions](03_Window_Functions.md) (Questions 57–61)**
 
 Topics Covered
 
