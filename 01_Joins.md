@@ -583,7 +583,7 @@ For production databases:
 
 ## Next Chapter
 
-➡ **02_Group_By_and_Aggregations.md**
+➡ **[GROUP BY & Aggregations](02_Group_By_and_Aggregations.md)**
 
 Questions **11–18**
 
