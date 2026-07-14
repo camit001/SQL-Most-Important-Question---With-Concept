@@ -335,7 +335,7 @@ A recursive CTE consists of:
 
 ## Next Chapter
 
-➡ **05_Date_and_Time_Functions.md (Questions 37–43)**
+➡ **[Date Functions](05_Date_and_Time_Functions.md) (Questions 37–43)**
 
 Topics Covered
 
