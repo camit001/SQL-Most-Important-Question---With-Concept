@@ -24,22 +24,22 @@ This repository is designed for:
 
 # ⭐ Features
 
-* ✅ 75+ Most Asked SQL Interview Questions
-* ✅ SQL Server (SSMS) Compatible Queries
-* ✅ Beginner → Advanced
-* ✅ Detailed Concepts
-* ✅ Real Interview Scenarios
-* ✅ Practice Dataset Included
-* ✅ Window Functions
-* ✅ CTEs
-* ✅ Joins
-* ✅ Aggregations
-* ✅ Date Functions
-* ✅ String Functions
-* ✅ CASE Statements
-* ✅ Self Joins
-* ✅ Performance Tips
-* ✅ GitHub Friendly Structure
+*  75+ Most Asked SQL Interview Questions
+*  SQL Server (SSMS) Compatible Queries
+*  Beginner → Advanced
+*  Detailed Concepts
+*  Real Interview Scenarios
+*  Practice Dataset Included
+*  Window Functions
+*  CTEs
+*  Joins
+*  Aggregations
+*  Date Functions
+*  String Functions
+*  CASE Statements
+*  Self Joins
+*  Performance Tips
+*  GitHub Friendly Structure
 
 ---
 
@@ -50,7 +50,7 @@ SQL-Interview-Questions-SSMS
 │
 ├── README.md
 │
-├── sql-datasets.sql
+├── sql-dataset.sql
 │
 ├── 01_Joins.md
 ├── 02_Group_By_and_Aggregations.md
@@ -61,15 +61,7 @@ SQL-Interview-Questions-SSMS
 ├── 07_String_Functions.md
 ├── 08_DISTINCT_and_Duplicates.md
 ├── 09_HAVING_vs_WHERE.md
-├── 10_Self_Joins.md
-│
-├── images
-│     ├── joins.png
-│     ├── windows.png
-│     ├── cte.png
-│     └── execution-order.png
-│
-└── LICENSE
+└── 10_Self_Joins.md
 ```
 
 ---
