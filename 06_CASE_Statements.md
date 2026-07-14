@@ -312,7 +312,7 @@ Very common in Power BI, SSRS, Tableau, and reporting queries.
 
 ## Next Chapter
 
-➡ **07_String_Functions.md (Questions 51–56)**
+➡ **[String Functions](07_String_Functions.md) (Questions 51–56)**
 
 Topics Covered
 
