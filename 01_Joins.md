@@ -4,12 +4,13 @@ JOINs are one of the most frequently asked SQL interview topics. They allow you 
 
 ## Types of JOINs Covered
 
-- INNER JOIN
-- LEFT JOIN
-- RIGHT JOIN
-- FULL OUTER JOIN
-- CROSS JOIN
-- SELF JOIN
+- **INNER JOIN** – Returns only the rows that have matching values in both tables.
+- **LEFT JOIN** – Returns all rows from the left table and matching rows from the right table; unmatched right-side rows are `NULL`.
+- **RIGHT JOIN** – Returns all rows from the right table and matching rows from the left table; unmatched left-side rows are `NULL`.
+- **FULL OUTER JOIN** – Returns all rows from both tables, with `NULL` where there is no match.
+- **CROSS JOIN** – Returns the Cartesian product, combining every row from the first table with every row from the second table.
+- **SELF JOIN** – Joins a table to itself to compare or relate rows within the same table.
+
 
 ---
 
